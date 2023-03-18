@@ -1,6 +1,6 @@
 {
 	"manifest_version": 1,
-	"id": "joplin-hotkey",
+	"id": "joplin-plugin-joplin-hotkey",
 	"app_min_version": "2.8",
 	"version": "1.0.0",
 	"name": "joplin-hotkey",
